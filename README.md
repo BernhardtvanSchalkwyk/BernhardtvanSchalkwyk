@@ -53,4 +53,4 @@ I’m particularly interested in designing **reliable, scalable systems** that h
 
 ## 🔗 Connect With Me
   
-- Email: *Bernhardt120@gmqil.com*  
+- Email: *Bernhardt120@gmail.com*  
